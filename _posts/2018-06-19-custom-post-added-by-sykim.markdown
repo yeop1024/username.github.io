@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "This is a post sykim has added"
 date:   2018-06-19 13:27:46 +0900
 categories: jekyll update
 ---
@@ -16,13 +16,6 @@ def print_hi(name)
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-
-{% highlight php %}
-echo phpinfo();
-{$hand}->watch();
-//display php information table
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
